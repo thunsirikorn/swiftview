@@ -1,0 +1,12 @@
+.container {
+    display: flex; 
+    background-color: orangered;
+    color: white;
+    padding-left: 200px;
+  }
+
+  .search{
+    float:left;
+    -webkit-appearance: none;
+    
+  }
